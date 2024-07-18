@@ -1,0 +1,399 @@
+^ModelOps
+&ModelOps, short for Model Operations, is a methodology that focuses on the deployment, monitoring, and lifecycle management of machine learning and artificial intelligence models in production. It ensures that models are efficiently and effectively integrated into business processes and continuously maintained to meet performance standards.
+*ModelOps, 또는 모델 운영(Model Operations)은 머신 러닝 및 인공지능 모델의 배포, 모니터링 및 라이프사이클 관리를 중심으로 하는 방법론으로, 모델이 비즈니스 프로세스에 효율적이고 효과적으로 통합되고 성능 기준을 충족하도록 지속적으로 유지되도록 합니다.
+
+^Data Redundancy
+&Data redundancy is a condition in which the same piece of data is held in multiple places within a database or data storage system. This can lead to data inconsistency and increased storage costs, but it can also enhance data availability and reliability by providing backup in case of system failure.
+*데이터 중복(Data Redundancy)은 동일한 데이터가 데이터베이스나 데이터 저장 시스템 내 여러 곳에 저장되는 상태를 의미합니다. 이는 데이터 불일치와 저장 비용 증가를 초래할 수 있지만, 시스템 장애 시 백업을 제공하여 데이터 가용성과 신뢰성을 향상시킬 수 있습니다.
+
+^Synthetic Data
+&Synthetic data is artificially generated data that is created using algorithms and simulations rather than collected from real-world events. It is used to train machine learning models, test systems, and enhance data privacy by preventing the exposure of real, sensitive information.
+*합성 데이터(Synthetic Data)는 실제 사건에서 수집된 것이 아니라 알고리즘과 시뮬레이션을 사용하여 인공적으로 생성된 데이터입니다. 머신 러닝 모델 훈련, 시스템 테스트, 그리고 실제 민감한 정보의 노출을 방지하여 데이터 프라이버시를 향상시키기 위해 사용됩니다.
+
+^Graph Database
+&Graph databases are specialized databases designed to store, manage, and query data in the form of graphs. They use nodes to represent entities and edges to represent relationships between these entities, making them ideal for applications involving complex, interconnected data such as social networks, recommendation systems, and fraud detection.
+*그래프 데이터베이스(Graph Database)는 데이터를 그래프 형태로 저장, 관리 및 쿼리하는 데 특화된 데이터베이스입니다. 이 데이터베이스는 엔티티를 나타내는 노드와 이들 엔티티 간의 관계를 나타내는 엣지를 사용하여, 소셜 네트워크, 추천 시스템, 사기 탐지와 같이 복잡하고 상호 연결된 데이터가 필요한 애플리케이션에 이상적입니다.
+
+^DataOps
+&DataOps is a set of practices, processes, and technologies aimed at automating and streamlining data management workflows. It emphasizes collaboration, integration, and automation of data flows between data managers and consumers to improve the speed, quality, and reliability of data analytics.
+*DataOps는 데이터 관리 워크플로우를 자동화하고 간소화하기 위한 관행, 프로세스 및 기술의 집합입니다. 이는 데이터 관리자와 소비자 간의 데이터 흐름의 협업, 통합 및 자동화를 강조하여 데이터 분석의 속도, 품질 및 신뢰성을 향상시킵니다.
+
+^Human In The Loop
+&Human in the loop (HITL) is a model of artificial intelligence (AI) and machine learning (ML) systems that involves human intervention in the training, tuning, and validation processes. This approach ensures higher accuracy and reliability by leveraging human expertise to guide the AI/ML systems.
+*Human in the loop(HITL)는 인공지능(AI) 및 머신러닝(ML) 시스템의 모델로, 훈련, 조정 및 검증 과정에 인간의 개입을 포함합니다. 이 접근 방식은 AI/ML 시스템을 안내하는 인간의 전문 지식을 활용하여 더 높은 정확도와 신뢰성을 보장합니다.
+
+^Augmented Analytics
+&Augmented analytics leverages machine learning and artificial intelligence to enhance data analytics processes by automating data preparation, insight discovery, and data sharing. It empowers users by providing advanced analytics capabilities without requiring deep technical expertise.
+*증강 분석(Augmented Analytics)은 데이터 준비, 인사이트 발견 및 데이터 공유를 자동화하여 데이터 분석 프로세스를 향상시키기 위해 머신 러닝과 인공지능을 활용합니다. 이는 고도의 기술 전문 지식 없이도 고급 분석 기능을 제공하여 사용자를 지원합니다.
+
+^Short-Range Wireless Communication
+&Short-range wireless communication refers to wireless communication technologies that enable data transmission over short distances, typically up to a few hundred meters. Common examples include Bluetooth, Wi-Fi, and Near Field Communication (NFC), used for applications such as personal area networks, smart homes, and contactless payments.
+*단거리 무선 통신(Short-Range Wireless Communication)은 일반적으로 몇 백 미터까지의 짧은 거리에서 데이터 전송을 가능하게 하는 무선 통신 기술을 의미합니다. 일반적인 예로는 블루투스, Wi-Fi 및 근거리 무선 통신(NFC)이 있으며, 개인 영역 네트워크, 스마트 홈 및 비접촉 결제와 같은 애플리케이션에 사용됩니다.
+
+^Intelligent Edge Computing
+&Intelligent edge computing refers to the practice of processing data near the source of data generation using advanced algorithms and machine learning models. This approach reduces latency, conserves bandwidth, and enhances the responsiveness and security of IoT and real-time applications.
+*지능형 엣지 컴퓨팅(Intelligent Edge Computing)은 고급 알고리즘과 머신러닝 모델을 사용하여 데이터 생성 소스 근처에서 데이터를 처리하는 것을 의미합니다. 이 접근 방식은 지연 시간을 줄이고 대역폭을 절약하며 IoT 및 실시간 애플리케이션의 응답성과 보안을 향상시킵니다.
+
+^Mobile Edge Computing
+&Mobile Edge Computing (MEC) is a network architecture that brings computation and data storage closer to the location where it is needed, particularly in mobile and IoT environments. MEC reduces latency, enhances data processing efficiency, and supports real-time applications by leveraging the computational resources at the edge of the mobile network.
+*모바일 엣지 컴퓨팅(MEC)은 특히 모바일 및 IoT 환경에서 필요한 위치에 더 가까운 곳으로 컴퓨팅 및 데이터 저장을 가져오는 네트워크 아키텍처입니다. MEC는 모바일 네트워크의 엣지에서 컴퓨팅 자원을 활용하여 지연 시간을 줄이고 데이터 처리 효율성을 향상시키며 실시간 애플리케이션을 지원합니다.
+
+^Financial Certificate
+&A financial certificate is a document that attests to the ownership or the value of a financial asset, such as stocks, bonds, or other securities. It is often issued by a financial institution or company and serves as proof of investment or ownership.
+*금융 증서(Financial Certificate)는 주식, 채권 또는 기타 증권과 같은 금융 자산의 소유권 또는 가치를 증명하는 문서입니다. 이는 종종 금융 기관이나 회사에서 발행되며 투자 또는 소유권의 증거로 사용됩니다.
+
+^Joint Certificate
+&A joint certificate is a document issued to two or more parties that jointly own an asset or have a shared interest in a financial or legal matter. This type of certificate signifies shared ownership or responsibility among the parties involved.
+*공동 증서(Joint Certificate)는 두 명 이상의 당사자에게 발행되며, 자산을 공동으로 소유하거나 금융 또는 법적 문제에 대해 공동의 이익을 가지는 경우에 해당합니다. 이러한 유형의 증서는 관련 당사자 간의 공동 소유권 또는 책임을 나타냅니다.
+
+^eXtended Reality
+&eXtended Reality (XR) is an umbrella term encompassing virtual reality (VR), augmented reality (AR), and mixed reality (MR) technologies. XR technologies blend the physical and digital worlds to create immersive experiences and are used in various fields including gaming, training, and simulations.
+*확장 현실(eXtended Reality, XR)은 가상 현실(VR), 증강 현실(AR), 혼합 현실(MR) 기술을 포함하는 포괄적인 용어입니다. XR 기술은 물리적 세계와 디지털 세계를 결합하여 몰입형 경험을 창출하며 게임, 교육, 시뮬레이션 등 다양한 분야에서 사용됩니다.
+
+^Release Engineering
+&Release engineering is the discipline of managing the process of releasing software, including the integration, build, deployment, and delivery of software applications. It involves coordinating different teams and tools to ensure smooth and reliable software releases.
+*릴리스 엔지니어링(Release Engineering)은 소프트웨어 통합, 빌드, 배포 및 전달을 포함하여 소프트웨어 릴리스 프로세스를 관리하는 분야입니다. 이는 원활하고 신뢰할 수 있는 소프트웨어 릴리스를 보장하기 위해 다양한 팀과 도구를 조정하는 작업을 포함합니다.
+
+^Secondary Device
+&A secondary device refers to an additional device that complements a primary device, enhancing its functionality or providing backup. Examples include external hard drives, secondary monitors, or tablets used alongside a main computer or smartphone.
+*보조 장치(Secondary Device)는 주 장치를 보완하여 기능을 향상시키거나 백업을 제공하는 추가 장치를 의미합니다. 외장 하드 드라이브, 보조 모니터 또는 주 컴퓨터나 스마트폰과 함께 사용하는 태블릿 등이 그 예입니다.
+
+^Container
+&A container is a lightweight, standalone executable package that includes everything needed to run a piece of software, such as code, runtime, libraries, and dependencies. Containers are used to ensure consistent environments across different stages of software development and deployment.
+*컨테이너(Container)는 코드, 런타임, 라이브러리 및 종속성을 포함하여 소프트웨어를 실행하는 데 필요한 모든 것을 포함하는 가벼운 독립 실행형 패키지입니다. 컨테이너는 소프트웨어 개발 및 배포의 다양한 단계에서 일관된 환경을 보장하기 위해 사용됩니다.
+
+^Packet Optical Transport Network
+&A Packet Optical Transport Network (P-OTN) is a type of telecommunications network that integrates packet-based data switching and optical transport technologies. P-OTNs are designed to provide efficient, scalable, and flexible data transport services for modern high-bandwidth applications.
+*패킷 광 전송 네트워크(Packet Optical Transport Network, P-OTN)는 패킷 기반 데이터 스위칭과 광 전송 기술을 통합한 일종의 통신 네트워크입니다. P-OTN은 현대의 고대역폭 애플리케이션을 위해 효율적이고 확장 가능하며 유연한 데이터 전송 서비스를 제공하도록 설계되었습니다.
+
+^Data Sovereignty
+&Data sovereignty refers to the concept that data is subject to the laws and governance structures within the nation where it is collected. This concept emphasizes that data stored in a country must comply with that country’s data protection and privacy laws.
+*데이터 주권(Data Sovereignty)은 데이터가 수집된 국가의 법률 및 관리 구조에 따라야 한다는 개념을 의미합니다. 이 개념은 한 국가에 저장된 데이터가 그 국가의 데이터 보호 및 개인정보 보호 법률을 준수해야 함을 강조합니다.
+
+^Deepfake
+&A deepfake is a type of synthetic media where artificial intelligence, particularly deep learning, is used to create hyper-realistic but fake images, audio, or video. Deepfakes can be used for various purposes, including entertainment, misinformation, and fraud.
+*딥페이크(Deepfake)는 인공지능, 특히 딥러닝을 사용하여 매우 현실적이지만 가짜인 이미지, 오디오 또는 비디오를 생성하는 일종의 합성 미디어입니다. 딥페이크는 엔터테인먼트, 허위 정보 제공, 사기 등 다양한 목적으로 사용될 수 있습니다.
+
+^Neural Network Exchange Format
+&Neural Network Exchange Format (NNEF) is a standard format developed to facilitate the interchange of trained neural networks between different deep learning frameworks. NNEF aims to provide a common language for representing neural network models to ensure compatibility and interoperability.
+*신경망 교환 형식(Neural Network Exchange Format, NNEF)은 다양한 딥러닝 프레임워크 간에 훈련된 신경망을 교환하기 위해 개발된 표준 형식입니다. NNEF는 신경망 모델의 호환성과 상호 운용성을 보장하기 위해 공통 언어를 제공하는 것을 목표로 합니다.
+
+^Data Dimensionality Reduction
+&Data dimensionality reduction is the process of reducing the number of random variables under consideration by obtaining a set of principal variables. Techniques such as Principal Component Analysis (PCA) and t-Distributed Stochastic Neighbor Embedding (t-SNE) are commonly used to simplify models, reduce computational cost, and mitigate overfitting.
+*데이터 차원 축소(Data Dimensionality Reduction)는 주 변수 집합을 얻음으로써 고려 중인 무작위 변수의 수를 줄이는 과정입니다. 주성분 분석(PCA) 및 t-분포 스토캐스틱 이웃 임베딩(t-SNE)과 같은 기술이 모델 단순화, 계산 비용 절감 및 과적합 완화를 위해 일반적으로 사용됩니다.
+
+^Crawling
+&Crawling, also known as web scraping, is the automated process of browsing the web and extracting data from websites. This technique is used for various purposes such as data mining, web indexing, and competitive analysis.
+*크롤링(Crawling)은 웹 스크래핑(Web Scraping)이라고도 하며, 웹을 자동으로 탐색하고 웹사이트에서 데이터를 추출하는 과정입니다. 이 기술은 데이터 마이닝, 웹 인덱싱 및 경쟁 분석과 같은 다양한 목적으로 사용됩니다.
+
+^MyData
+&MyData is a framework designed to empower individuals by giving them greater control over their personal data. It emphasizes transparency, privacy, and the ethical use of data, allowing users to manage and share their data on their terms.
+*마이데이터(MyData)는 개인이 자신의 데이터를 더 많이 통제할 수 있도록 하는 프레임워크입니다. 이는 투명성, 프라이버시 및 데이터의 윤리적 사용을 강조하며, 사용자가 자신의 데이터를 관리하고 공유할 수 있도록 합니다.
+
+^Elliptic Curve Diffie-Hellman Algorithm
+&The Elliptic Curve Diffie-Hellman (ECDH) algorithm is a cryptographic protocol used for secure key exchange. It leverages the mathematics of elliptic curves to provide strong security with relatively small key sizes, making it efficient for use in modern encrypted communications.
+*타원 곡선 디피-헬만(Elliptic Curve Diffie-Hellman, ECDH) 알고리즘은 안전한 키 교환을 위해 사용되는 암호화 프로토콜입니다. 이는 타원 곡선의 수학을 활용하여 비교적 작은 키 크기로 강력한 보안을 제공하여 현대 암호화 통신에 효율적으로 사용됩니다.
+
+^Kubernetes
+&Kubernetes is an open-source platform for automating the deployment, scaling, and management of containerized applications. It provides a robust framework for running distributed systems resiliently, enabling efficient application operations and scaling.
+*쿠버네티스(Kubernetes)는 컨테이너화된 애플리케이션의 배포, 확장 및 관리를 자동화하기 위한 오픈 소스 플랫폼입니다. 이는 분산 시스템을 탄력적으로 실행하기 위한 강력한 프레임워크를 제공하여 효율적인 애플리케이션 운영 및 확장을 가능하게 합니다.
+
+^Open Source Software Compliance
+&Open source software compliance refers to the process of ensuring that the use, modification, and distribution of open-source software adhere to the applicable licenses and legal requirements. It involves understanding and managing the obligations and restrictions associated with various open-source licenses.
+*오픈 소스 소프트웨어 컴플라이언스(Open Source Software Compliance)는 오픈 소스 소프트웨어의 사용, 수정 및 배포가 적용 가능한 라이선스 및 법적 요구 사항을 준수하도록 보장하는 과정을 의미합니다. 이는 다양한 오픈 소스 라이선스와 관련된 의무와 제한 사항을 이해하고 관리하는 것을 포함합니다.
+
+^Quantum Supremacy
+&Quantum supremacy is the point at which a quantum computer can perform a calculation that is infeasible for a classical computer to accomplish in any reasonable amount of time. This milestone signifies a significant leap in computational power and has profound implications for fields such as cryptography, material science, and complex system modeling.
+*양자 우위(Quantum Supremacy)는 양자 컴퓨터가 고전 컴퓨터로는 합리적인 시간 내에 수행할 수 없는 계산을 수행할 수 있는 지점을 의미합니다. 이 이정표는 계산 능력의 중요한 도약을 나타내며 암호학, 재료 과학 및 복잡한 시스템 모델링과 같은 분야에 중대한 영향을 미칩니다.
+
+^Quantum Entanglement
+&Quantum entanglement is a physical phenomenon where pairs or groups of particles become interconnected such that the state of one particle cannot be described independently of the state of the other(s). This correlation persists regardless of the distance separating the entangled particles, and it is a foundational concept in quantum mechanics.
+*양자 얽힘(Quantum Entanglement)은 입자 쌍 또는 입자 그룹이 서로 연결되어 하나의 입자의 상태를 다른 입자의 상태와 독립적으로 설명할 수 없는 물리적 현상입니다. 이 상관관계는 얽힌 입자들 간의 거리에 관계없이 지속되며, 이는 양자 역학의 기초 개념입니다.
+
+^Labeled Data
+&Labeled data refers to data that has been tagged with one or more labels to provide context or meaning. It is crucial for supervised machine learning tasks where the algorithm needs to learn from examples that include both input data and the corresponding correct output.
+*레이블된 데이터(Labeled Data)는 맥락이나 의미를 제공하기 위해 하나 이상의 레이블이 태그된 데이터를 의미합니다. 이는 알고리즘이 입력 데이터와 해당하는 올바른 출력을 모두 포함하는 예제에서 학습해야 하는 지도 학습 작업에서 중요합니다.
+
+^Data Wrangling
+&Data wrangling, also known as data munging, is the process of cleaning, transforming, and preparing raw data into a structured format for analysis. This process is essential for ensuring data quality and usability, enabling accurate and meaningful insights from data analytics.
+*데이터 랭글링(Data Wrangling)은 데이터 정제(Data Munging)라고도 하며, 원시 데이터를 분석을 위한 구조화된 형식으로 정리, 변환 및 준비하는 과정입니다. 이 과정은 데이터 품질과 사용성을 보장하고 데이터 분석에서 정확하고 의미 있는 인사이트를 도출하기 위해 필수적입니다.
+
+^OpenRefine
+&OpenRefine is an open-source tool for cleaning and transforming messy data. It allows users to explore large datasets, identify and correct inconsistencies, and perform data transformations efficiently, making it an essential tool for data wrangling and preparation.
+*오픈리파인(OpenRefine)은 데이터 정리 및 변환을 위한 오픈 소스 도구입니다. 사용자는 대규모 데이터 세트를 탐색하고 불일치를 식별하여 수정하며 데이터를 효율적으로 변환할 수 있어 데이터 랭글링과 준비에 필수적인 도구입니다.
+
+^Data Visualization
+&Data visualization is the graphical representation of data to help people understand complex data sets and derive insights. Using charts, graphs, and other visual tools, data visualization makes it easier to detect patterns, trends, and outliers in data.
+*데이터 시각화(Data Visualization)는 복잡한 데이터 세트를 이해하고 인사이트를 도출하는 데 도움이 되는 데이터의 그래픽 표현입니다. 차트, 그래프 및 기타 시각 도구를 사용하여 데이터의 패턴, 추세 및 이상값을 쉽게 감지할 수 있습니다.
+
+^Data Science
+&Data science is an interdisciplinary field that combines statistical, mathematical, and computational techniques to extract insights and knowledge from data. It encompasses data collection, processing, analysis, and interpretation to inform decision-making and solve complex problems.
+*데이터 과학(Data Science)은 통계, 수학 및 계산 기술을 결합하여 데이터에서 인사이트와 지식을 추출하는 학제 간 분야입니다. 데이터 수집, 처리, 분석 및 해석을 포함하여 의사 결정에 정보를 제공하고 복잡한 문제를 해결합니다.
+
+^Data Literacy
+&Data literacy is the ability to read, understand, analyze, and communicate data effectively. It involves skills in interpreting data visualizations, understanding data sources, and making data-driven decisions, which are essential in today’s data-driven world.
+*데이터 리터러시(Data Literacy)는 데이터를 읽고, 이해하고, 분석하며, 효과적으로 전달하는 능력입니다. 데이터 시각화를 해석하고, 데이터 소스를 이해하며, 데이터 기반 의사 결정을 내리는 기술을 포함하여 현대의 데이터 중심 세계에서 필수적입니다.
+
+^eXplainable Artificial Intelligence
+&eXplainable Artificial Intelligence (XAI) refers to AI systems designed to provide clear, understandable explanations of their decision-making processes. XAI aims to make AI systems more transparent, trustworthy, and accountable by allowing users to understand how and why decisions are made.
+*설명 가능한 인공지능(eXplainable Artificial Intelligence, XAI)은 의사 결정 과정을 명확하고 이해하기 쉽게 설명하는 AI 시스템을 의미합니다. XAI는 사용자가 결정이 어떻게 그리고 왜 이루어지는지 이해할 수 있도록 하여 AI 시스템을 더 투명하고 신뢰할 수 있으며 책임감 있게 만듭니다.
+
+^Artificial Emotional Intelligence
+&Artificial Emotional Intelligence, or Emotion AI, is a subset of AI that enables machines to recognize, interpret, and respond to human emotions. It uses techniques from psychology, cognitive science, and machine learning to simulate human emotional intelligence.
+*인공지능 감성 지능(Artificial Emotional Intelligence, 또는 Emotion AI)은 기계가 인간의 감정을 인식하고 해석하며 반응할 수 있도록 하는 AI의 하위 분야입니다. 이는 심리학, 인지 과학 및 머신 러닝의 기술을 사용하여 인간의 감성 지능을 시뮬레이션합니다.
+
+^Sentiment Analysis
+&Sentiment analysis is the process of using natural language processing (NLP) and machine learning techniques to identify and extract subjective information from text data. It determines the sentiment expressed in a piece of text, whether positive, negative, or neutral, and is widely used in social media monitoring, customer feedback analysis, and market research.
+*감정 분석(Sentiment Analysis)은 자연어 처리(NLP)와 머신 러닝 기술을 사용하여 텍스트 데이터에서 주관적인 정보를 식별하고 추출하는 과정입니다. 텍스트에 표현된 감정을 긍정적, 부정적 또는 중립적으로 결정하며 소셜 미디어 모니터링, 고객 피드백 분석 및 시장 조사에 널리 사용됩니다.
+
+^On-Device Artificial Intelligence
+&On-device artificial intelligence refers to AI processing that occurs directly on the device rather than relying on cloud-based servers. This approach offers benefits such as reduced latency, enhanced privacy, and the ability to operate without internet connectivity, making it ideal for applications in mobile devices, IoT, and autonomous systems.
+*온디바이스 인공지능(On-Device Artificial Intelligence)은 클라우드 기반 서버에 의존하지 않고 장치에서 직접 AI 처리를 수행하는 것을 의미합니다. 이 접근 방식은 지연 시간 감소, 프라이버시 향상 및 인터넷 연결 없이 작동할 수 있는 능력과 같은 이점을 제공하여 모바일 장치, IoT 및 자율 시스템의 애플리케이션에 이상적입니다.
+
+^Neural Processing Unit
+&A neural processing unit (NPU) is a specialized microprocessor designed to accelerate the computation of machine learning algorithms, particularly neural networks. NPUs optimize the performance and efficiency of AI tasks by handling complex mathematical operations at high speed.
+*신경 처리 장치(Neural Processing Unit, NPU)는 머신 러닝 알고리즘, 특히 신경망 계산을 가속화하기 위해 설계된 특수 마이크로프로세서입니다. NPU는 고속으로 복잡한 수학적 연산을 처리하여 AI 작업의 성능과 효율성을 최적화합니다.
+
+^Electrical Fast Transient
+&An Electrical Fast Transient (EFT) is a type of electrical disturbance characterized by rapid bursts of high-frequency energy, often caused by switching inductive loads or relay contact bounce. EFTs can cause disruptions in electronic equipment and systems, necessitating robust protective measures.
+*전기적 고속 과도 현상(Electrical Fast Transient, EFT)은 유도 부하 전환 또는 릴레이 접점 바운스에 의해 발생하는 고주파 에너지의 빠른 연속을 특징으로 하는 전기적 교란의 일종입니다. EFT는 전자 장비 및 시스템에 방해를 일으킬 수 있으므로 강력한 보호 조치가 필요합니다.
+
+^Radiated Disturbance
+&Radiated disturbance refers to the unintended electromagnetic emissions from electrical or electronic devices that can interfere with the normal operation of other nearby devices. These disturbances can affect communication systems, medical equipment, and other sensitive electronics.
+*방사 방해(Radiated Disturbance)는 전기 또는 전자 장치에서 발생하는 의도하지 않은 전자기 방출로, 근처의 다른 장치의 정상적인 작동에 간섭할 수 있습니다. 이러한 방해는 통신 시스템, 의료 장비 및 기타 민감한 전자 장치에 영향을 미칠 수 있습니다.
+
+^Radiated Electromagnetic Interference
+&Radiated electromagnetic interference (EMI) is the disruption caused by electromagnetic radiation emitted from electronic devices or systems. EMI can degrade the performance of other electronic equipment by inducing unwanted currents or voltages, leading to malfunctions or failures.
+*방사 전자기 간섭(Radiated Electromagnetic Interference, EMI)은 전자 장치 또는 시스템에서 방출된 전자기 방사에 의해 발생하는 방해입니다. EMI는 원치 않는 전류나 전압을 유도하여 다른 전자 장비의 성능을 저하시켜 오작동이나 고장을 일으킬 수 있습니다.
+
+^Magnetic Field Strength
+&Magnetic field strength, also known as magnetic field intensity, is a measure of the magnetizing force in a given area. It is quantified in amperes per meter (A/m) and determines the capability of a magnetic field to influence magnetic materials and induce electromotive force.
+*자기장 강도(Magnetic Field Strength)는 주어진 영역에서 자화력을 측정한 것으로, 암페어 퍼 미터(A/m)로 측정됩니다. 이는 자기장이 자성 재료에 영향을 미치고 전자력을 유도할 수 있는 능력을 결정합니다.
+
+^Electric Field
+&An electric field is a region around a charged particle or object within which a force would be exerted on other charged particles or objects. The strength of an electric field is measured in volts per meter (V/m) and is fundamental to understanding electrostatic interactions and electrical forces.
+*전기장(Electric Field)은 하전 입자 또는 물체 주변의 영역으로, 이 안에서 다른 하전 입자 또는 물체에 힘이 작용하게 됩니다. 전기장의 강도는 볼트 퍼 미터(V/m)로 측정되며, 정전기 상호작용 및 전기력을 이해하는 데 기본적입니다.
+
+^Immersive Virtual Reality
+&Immersive virtual reality (VR) refers to a simulated environment that completely surrounds the user, providing a highly interactive and realistic experience. Using headsets and other sensory devices, immersive VR engages multiple senses to create the illusion of being present in a virtual world.
+*몰입형 가상 현실(Immersive Virtual Reality, VR)은 사용자를 완전히 둘러싸는 시뮬레이션 환경으로, 매우 상호작용적이고 현실적인 경험을 제공합니다. 헤드셋 및 기타 감각 장치를 사용하여 몰입형 VR은 여러 감각을 활용하여 가상 세계에 존재하는 환상을 만듭니다.
+
+^Co-Planar Waveguide
+&A co-planar waveguide (CPW) is a type of electrical transmission line used in microwave circuits. It consists of a central conductor with two ground planes on either side, all on the same plane, providing low loss and high performance in high-frequency applications.
+*동평면 도파관(Co-Planar Waveguide, CPW)은 마이크로파 회로에서 사용되는 일종의 전기 전송선입니다. 중앙 도체와 양쪽에 두 개의 접지면으로 구성되며 모두 동일한 평면에 위치하여 고주파 애플리케이션에서 낮은 손실과 높은 성능을 제공합니다.
+
+^Transient ElectroMagnetic Pulse Emanation Surveillance Technology
+&Transient Electromagnetic Pulse Emanation Surveillance Technology (TEMPEST) is a method used to monitor and capture electronic data by detecting electromagnetic emissions from electronic devices. This technology can be used for both security purposes and to prevent data leaks by identifying potential vulnerabilities in electronic systems.
+*과도 전자기 펄스 방출 감시 기술(Transient ElectroMagnetic Pulse Emanation Surveillance Technology, TEMPEST)은 전자 장치에서 방출되는 전자기 방사를 감지하여 전자 데이터를 모니터링하고 캡처하는 방법입니다. 이 기술은 보안 목적과 전자 시스템의 잠재적 취약성을 식별하여 데이터 유출을 방지하는 데 사용될 수 있습니다.
+
+^Zero-Knowledge Proof
+&A zero-knowledge proof is a cryptographic method by which one party can prove to another party that a statement is true without revealing any additional information. This technique enhances privacy and security by allowing the verification of information without disclosing the actual data.
+*영지식 증명(Zero-Knowledge Proof)은 한 당사자가 다른 당사자에게 추가 정보를 공개하지 않고 진술이 사실임을 증명할 수 있는 암호화 방법입니다. 이 기술은 실제 데이터를 공개하지 않고 정보의 검증을 허용하여 프라이버시와 보안을 강화합니다.
+
+^Zero Knowledge Interactive Proof
+&A zero knowledge interactive proof is a type of zero-knowledge proof where the prover and verifier engage in an interactive process. Through multiple rounds of interaction, the prover convinces the verifier of the truth of a statement without revealing the underlying information.
+*영지식 대화형 증명(Zero Knowledge Interactive Proof)은 증명자와 검증자가 상호작용 과정을 거치는 영지식 증명의 일종입니다. 여러 라운드의 상호작용을 통해 증명자는 기본 정보를 공개하지 않고 진술의 진실성을 검증자에게 설득합니다.
+
+^Wideband Code Division Multiple Access
+&Wideband Code Division Multiple Access (W-CDMA) is a type of 3G cellular network technology that uses a wide bandwidth to achieve high data transfer rates. It employs code division multiplexing to allow multiple users to share the same frequency band simultaneously, enhancing network capacity and performance.
+*광대역 코드 분할 다중 접속(Wideband Code Division Multiple Access, W-CDMA)은 높은 데이터 전송 속도를 달성하기 위해 넓은 대역폭을 사용하는 3G 셀룰러 네트워크 기술의 일종입니다. 코드 분할 다중화를 사용하여 여러 사용자가 동일한 주파수 대역을 동시에 공유할 수 있도록 하여 네트워크 용량과 성능을 향상시킵니다.
+
+^Virtual Machine
+&A virtual machine (VM) is a software-based emulation of a computer system that provides the functionality of a physical computer. VMs run operating systems and applications in an isolated environment, allowing multiple VMs to operate on a single physical machine, thereby optimizing resource utilization.
+*가상 머신(Virtual Machine, VM)은 컴퓨터 시스템을 소프트웨어 기반으로 에뮬레이션하여 물리적 컴퓨터의 기능을 제공합니다. VM은 운영 체제와 애플리케이션을 격리된 환경에서 실행하여 단일 물리적 머신에서 여러 VM이 작동할 수 있도록 하여 자원 활용을 최적화합니다.
+
+^Virtual Desktop
+&A virtual desktop is a computing environment where the desktop interface and applications run on a remote server rather than on a local computer. Users can access their virtual desktop from any device with an internet connection, providing flexibility and centralized management.
+*가상 데스크탑(Virtual Desktop)은 데스크탑 인터페이스와 애플리케이션이 로컬 컴퓨터가 아닌 원격 서버에서 실행되는 컴퓨팅 환경입니다. 사용자는 인터넷 연결이 가능한 모든 장치에서 가상 데스크탑에 액세스할 수 있어 유연성과 중앙 집중식 관리를 제공합니다.
+
+^Universal Mobile Telecommunications System
+&Universal Mobile Telecommunications System (UMTS) is a third-generation (3G) mobile cellular technology for networks based on the GSM standard. It offers higher data transfer rates and enhanced mobile internet capabilities compared to its predecessors.
+*범용 이동 통신 시스템(Universal Mobile Telecommunications System, UMTS)은 GSM 표준을 기반으로 한 네트워크를 위한 3세대(3G) 모바일 셀룰러 기술입니다. 이전 기술에 비해 더 높은 데이터 전송 속도와 향상된 모바일 인터넷 기능을 제공합니다.
+
+^Transverse ElectroMagnetic Cell
+&A Transverse Electromagnetic (TEM) cell is a device used to generate a uniform electromagnetic field for testing the electromagnetic compatibility (EMC) of electronic devices. It is commonly used in compliance testing to ensure devices meet regulatory standards.
+*횡파 전자기 셀(Transverse ElectroMagnetic Cell, TEM 셀)은 전자기 적합성(EMC) 테스트를 위해 균일한 전자기장을 생성하는 장치입니다. 이는 장치가 규제 표준을 충족하는지 확인하기 위한 준수 테스트에 일반적으로 사용됩니다.
+
+^Transverse ElectroMagnetic Mode
+&Transverse Electromagnetic (TEM) mode is a type of electromagnetic wave propagation where the electric and magnetic fields are both perpendicular to the direction of wave travel. This mode is characteristic of certain types of transmission lines, such as coaxial cables.
+*횡파 전자기 모드(Transverse ElectroMagnetic Mode, TEM 모드)는 전기장과 자기장이 모두 파의 진행 방향에 수직인 유형의 전자기파 전파입니다. 이 모드는 동축 케이블과 같은 특정 유형의 전송선의 특징입니다.
+
+^Transmission Line
+&A transmission line is a specialized cable or other structure designed to carry electromagnetic signals with minimal loss from one point to another. Common examples include coaxial cables, optical fibers, and waveguides, which are used in telecommunications and broadcasting.
+*전송선(Transmission Line)은 전자기 신호를 최소한의 손실로 한 지점에서 다른 지점으로 전달하도록 설계된 특수 케이블 또는 기타 구조물입니다. 일반적인 예로는 통신 및 방송에 사용되는 동축 케이블, 광섬유 및 도파관이 있습니다.
+
+^Symmetric Key Algorithm
+&A symmetric key algorithm is a type of encryption where the same key is used for both encryption and decryption of data. Examples include AES (Advanced Encryption Standard) and DES (Data Encryption Standard). Symmetric key algorithms are known for their speed and efficiency.
+*대칭 키 알고리즘(Symmetric Key Algorithm)은 데이터의 암호화와 복호화에 동일한 키를 사용하는 암호화 유형입니다. 예로는 고급 암호화 표준(AES)과 데이터 암호화 표준(DES)이 있습니다. 대칭 키 알고리즘은 속도와 효율성으로 잘 알려져 있습니다.
+
+^Speech Recognition, Voice Recognition
+&Speech recognition is the technology that enables a computer to recognize and process spoken language, converting it into text. Voice recognition, on the other hand, focuses on identifying the unique characteristics of a person's voice to verify their identity.
+*음성 인식(Speech Recognition)은 컴퓨터가 음성 언어를 인식하고 처리하여 텍스트로 변환할 수 있게 하는 기술입니다. 음성 인식(Voice Recognition)은 반면에 사람의 목소리의 고유한 특징을 식별하여 신원을 확인하는 데 중점을 둡니다.
+
+^Source Code
+&Source code is the human-readable set of instructions and statements written in a programming language that defines the behavior and functionality of a software application. It is the original code before it is compiled into machine-readable binary code.
+*소스 코드(Source Code)는 소프트웨어 애플리케이션의 동작과 기능을 정의하는 프로그래밍 언어로 작성된 사람이 읽을 수 있는 명령어 및 문장 집합입니다. 이는 기계가 읽을 수 있는 이진 코드로 컴파일되기 전의 원시 코드입니다.
+
+^Software-Defined Radio
+&Software-defined radio (SDR) is a radio communication system where components that have typically been implemented in hardware are instead implemented by means of software. SDR allows for more flexible and adaptable radio systems, capable of supporting various communication protocols and frequencies.
+*소프트웨어 정의 라디오(Software-Defined Radio, SDR)는 일반적으로 하드웨어로 구현되었던 구성 요소를 소프트웨어로 구현하는 라디오 통신 시스템입니다. SDR은 다양한 통신 프로토콜과 주파수를 지원할 수 있는 더 유연하고 적응 가능한 라디오 시스템을 가능하게 합니다.
+
+^Social Media Mining
+&Social media mining is the process of extracting useful patterns, insights, and information from social media platforms. It involves analyzing user interactions, content, and network connections to understand trends, sentiment, and user behavior for purposes like marketing, public opinion analysis, and social research.
+*소셜 미디어 마이닝(Social Media Mining)은 소셜 미디어 플랫폼에서 유용한 패턴, 인사이트 및 정보를 추출하는 과정입니다. 사용자 상호작용, 콘텐츠 및 네트워크 연결을 분석하여 마케팅, 여론 분석 및 사회 연구와 같은 목적으로 트렌드, 감정 및 사용자 행동을 이해합니다.
+
+^SEED
+&SEED is a symmetric key encryption algorithm developed by the Korea Internet & Security Agency (KISA). It is widely used in South Korea for securing sensitive data and ensuring confidentiality in various applications including electronic financial transactions.
+*SEED는 한국인터넷진흥원(KISA)에서 개발한 대칭 키 암호화 알고리즘입니다. 이는 민감한 데이터의 보안 및 전자 금융 거래를 포함한 다양한 애플리케이션에서 기밀성을 보장하기 위해 한국에서 널리 사용됩니다.
+
+^Secret Key
+&A secret key, also known as a symmetric key, is a single cryptographic key used for both the encryption and decryption of data. The key must be kept confidential between the communicating parties to ensure secure communication.
+*비밀 키(Secret Key)는 대칭 키라고도 하며, 데이터의 암호화와 복호화를 위해 사용되는 단일 암호 키입니다. 키는 안전한 통신을 보장하기 위해 통신 당사자 간에 기밀로 유지되어야 합니다.
+
+^Satellite Communication
+&Satellite communication involves the use of artificial satellites to provide communication links between various points on Earth. It is widely used for television broadcasting, internet connectivity, and global positioning systems (GPS).
+*위성 통신(Satellite Communication)은 인공위성을 사용하여 지구상의 여러 지점 간에 통신 링크를 제공하는 것을 포함합니다. 이는 텔레비전 방송, 인터넷 연결 및 전 세계 위치 확인 시스템(GPS)에 널리 사용됩니다.
+
+^Rivest Cipher 5
+&Rivest Cipher 5 (RC5) is a symmetric key block cipher notable for its simplicity and flexibility. Developed by Ronald Rivest in 1994, RC5 allows for variable block sizes, key sizes, and the number of rounds, making it adaptable to various security needs.
+*Rivest Cipher 5(RC5)은 단순성과 유연성으로 유명한 대칭 키 블록 암호입니다. 1994년 Ronald Rivest에 의해 개발된 RC5는 가변 블록 크기, 키 크기 및 라운드 수를 허용하여 다양한 보안 요구에 적응할 수 있습니다.
+
+^Replicated Database
+&A replicated database is a distributed database in which copies of the same data are stored on multiple servers or locations. This approach enhances data availability, fault tolerance, and performance by ensuring that data remains accessible even if some servers fail.
+*복제 데이터베이스(Replicated Database)는 동일한 데이터의 복사본이 여러 서버 또는 위치에 저장되는 분산 데이터베이스입니다. 이 접근 방식은 일부 서버가 고장 나더라도 데이터가 접근 가능하도록 보장하여 데이터 가용성, 내결함성 및 성능을 향상시킵니다.
+
+^Relational Model
+&The relational model is a database model that organizes data into tables (or relations) consisting of rows and columns. Each table represents a collection of related data, and tables can be linked using keys to reflect relationships among the data.
+*관계형 모델(Relational Model)은 행과 열로 구성된 테이블(또는 릴레이션)로 데이터를 구성하는 데이터베이스 모델입니다. 각 테이블은 관련 데이터의 모음을 나타내며, 테이블은 데이터를 상호 연결하는 키를 사용하여 데이터 간의 관계를 반영할 수 있습니다.
+
+^Relational Database
+&A relational database is a type of database that uses the relational model to store and manage data. It organizes data into tables that can be linked based on relationships, facilitating efficient data retrieval, manipulation, and reporting. Common examples include MySQL, PostgreSQL, and Oracle Database.
+*관계형 데이터베이스(Relational Database)는 관계형 모델을 사용하여 데이터를 저장하고 관리하는 데이터베이스 유형입니다. 데이터 간의 관계를 기반으로 테이블로 데이터를 구성하여 효율적인 데이터 검색, 조작 및 보고를 용이하게 합니다. 일반적인 예로는 MySQL, PostgreSQL 및 Oracle Database가 있습니다.
+
+^Radiation Immunity
+&Radiation immunity refers to the ability of electronic devices and systems to withstand exposure to radiation without experiencing performance degradation or failure. This is crucial in environments with high levels of electromagnetic interference, such as space or medical settings.
+*방사선 내성(Radiation Immunity)은 전자 장치 및 시스템이 성능 저하 또는 고장을 경험하지 않고 방사선에 노출될 수 있는 능력을 의미합니다. 이는 우주나 의료 환경과 같이 높은 수준의 전자기 간섭이 있는 환경에서 매우 중요합니다.
+
+^Public Key
+&A public key is a cryptographic key used in asymmetric encryption algorithms. It is paired with a private key and can be shared openly to enable secure communication. The public key encrypts data, which can only be decrypted by the corresponding private key.
+*공개 키(Public Key)는 비대칭 암호화 알고리즘에서 사용되는 암호화 키입니다. 이는 개인 키와 쌍을 이루며 안전한 통신을 가능하게 하기 위해 공개적으로 공유될 수 있습니다. 공개 키는 데이터를 암호화하며, 이는 해당 개인 키로만 복호화할 수 있습니다.
+
+^Preprocessing
+&Preprocessing is the initial phase in data analysis where raw data is cleaned, transformed, and prepared for further processing. This step involves handling missing values, normalizing data, and converting data types to ensure the data is suitable for analysis or machine learning tasks.
+*전처리(Preprocessing)는 원시 데이터를 정리, 변환하고 추가 처리를 위해 준비하는 데이터 분석의 초기 단계입니다. 이 단계에서는 결측값 처리, 데이터 정규화 및 데이터 유형 변환을 포함하여 데이터가 분석 또는 머신러닝 작업에 적합하도록 합니다.
+
+^Personal Digital Assistant
+&A Personal Digital Assistant (PDA) is a handheld device that combines computing, telephone, internet, and networking features. PDAs are used for managing personal information such as contacts, calendars, and emails, and often include features like touchscreens and stylus input.
+*개인 디지털 비서(Personal Digital Assistant, PDA)는 컴퓨팅, 전화, 인터넷 및 네트워킹 기능을 결합한 휴대용 장치입니다. PDA는 연락처, 일정, 이메일 등 개인 정보를 관리하는 데 사용되며 종종 터치스크린 및 스타일러스 입력 기능을 포함합니다.
+
+^Personal Computer
+&A Personal Computer (PC) is a multi-purpose computing device designed for individual use. PCs are widely used for tasks such as word processing, internet browsing, gaming, and multimedia playback, and come in various forms including desktops, laptops, and tablets.
+*개인용 컴퓨터(Personal Computer, PC)는 개인용으로 설계된 다목적 컴퓨팅 장치입니다. PC는 문서 작성, 인터넷 검색, 게임, 멀티미디어 재생 등 다양한 작업에 널리 사용되며 데스크탑, 노트북, 태블릿 등 다양한 형태로 제공됩니다.
+
+^Optimization
+&Optimization is the process of making a system, design, or decision as effective or functional as possible. In computer science, it often involves improving algorithms and code to enhance performance, reduce resource consumption, and achieve better outcomes.
+*최적화(Optimization)는 시스템, 설계 또는 결정을 가능한 한 효과적이거나 기능적으로 만드는 과정입니다. 컴퓨터 과학에서 최적화는 성능 향상, 자원 소비 감소 및 더 나은 결과를 달성하기 위해 알고리즘 및 코드를 개선하는 것을 포함합니다.
+
+^Opinion Mining
+&Opinion mining, also known as sentiment analysis, is the process of analyzing text data to determine the sentiment expressed within. This technique is used to gauge public opinion, monitor brand reputation, and understand customer feedback by categorizing text as positive, negative, or neutral.
+*의견 마이닝(Opinion Mining)은 감정 분석이라고도 하며, 텍스트 데이터의 감정을 분석하는 과정입니다. 이 기술은 텍스트를 긍정적, 부정적 또는 중립적으로 분류하여 여론을 평가하고 브랜드 평판을 모니터링하며 고객 피드백을 이해하는 데 사용됩니다.
+
+^Open Source Software
+&Open Source Software (OSS) is software with source code that anyone can inspect, modify, and enhance. OSS promotes collaborative development and sharing of code, allowing developers to contribute to and improve the software over time.
+*오픈 소스 소프트웨어(Open Source Software, OSS)는 누구나 소스 코드를 검사, 수정 및 개선할 수 있는 소프트웨어입니다. OSS는 협업 개발과 코드 공유를 촉진하여 개발자가 시간이 지남에 따라 소프트웨어에 기여하고 개선할 수 있도록 합니다.
+
+^Open Source Software License
+&An Open Source Software license is a legal document that specifies the terms under which the source code of open-source software can be used, modified, and distributed. Common licenses include the MIT License, GNU General Public License (GPL), and Apache License, which outline the rights and obligations of users and developers.
+*오픈 소스 소프트웨어 라이선스(Open Source Software License)는 오픈 소스 소프트웨어의 소스 코드를 사용할 수 있는 조건, 수정 및 배포할 수 있는 조건을 명시한 법적 문서입니다. 일반적인 라이선스로는 MIT 라이선스, GNU 일반 공중 사용 허가서(GPL), Apache 라이선스가 있으며, 이는 사용자 및 개발자의 권리와 의무를 명시합니다.
+
+^Open Application Programming Interface
+&An Open Application Programming Interface (API) is a publicly available interface that allows developers to access the functionality or data of a service or application. Open APIs enable integration between different systems and applications, fostering innovation and collaboration.
+*오픈 애플리케이션 프로그래밍 인터페이스(Open Application Programming Interface, API)는 개발자가 서비스 또는 애플리케이션의 기능이나 데이터에 액세스할 수 있도록 공개된 인터페이스입니다. 오픈 API는 다양한 시스템과 애플리케이션 간의 통합을 가능하게 하여 혁신과 협업을 촉진합니다.
+
+^Object Recognition
+&Object recognition is a computer vision technology that identifies and classifies objects within an image or video. It uses machine learning algorithms to detect objects and determine their identities, enabling applications such as autonomous vehicles, facial recognition, and image tagging.
+*객체 인식(Object Recognition)은 이미지나 비디오 내에서 객체를 식별하고 분류하는 컴퓨터 비전 기술입니다. 이는 머신러닝 알고리즘을 사용하여 객체를 감지하고 그 정체를 파악하여 자율 주행 차량, 얼굴 인식 및 이미지 태깅과 같은 애플리케이션을 가능하게 합니다.
+
+^Object Code
+&Object code is the machine-readable output of a compiler that translates source code written in a high-level programming language into binary code that can be executed by a computer's CPU. Object code is essential for running programs on hardware.
+*오브젝트 코드(Object Code)는 고급 프로그래밍 언어로 작성된 소스 코드를 컴파일러가 번역한 기계가 읽을 수 있는 출력물로, 컴퓨터의 CPU가 실행할 수 있는 이진 코드입니다. 오브젝트 코드는 하드웨어에서 프로그램을 실행하는 데 필수적입니다.
+
+^Near Field Communication
+&Near Field Communication (NFC) is a short-range wireless communication technology that allows devices to exchange data over a distance of a few centimeters. It is commonly used for contactless payments, access control, and data sharing between compatible devices.
+*근거리 무선 통신(Near Field Communication, NFC)은 몇 센티미터 거리에서 데이터를 교환할 수 있는 단거리 무선 통신 기술입니다. 주로 비접촉 결제, 출입 통제, 호환 장치 간 데이터 공유에 사용됩니다.
+
+^National Public Key Infrastructure
+&National Public Key Infrastructure (NPKI) is a framework for managing public key encryption and digital certificates on a national level. It ensures secure electronic transactions and communications by providing a trusted environment for authentication, data integrity, and confidentiality.
+*국가 공인 공개 키 기반 구조(National Public Key Infrastructure, NPKI)는 국가 차원에서 공개 키 암호화 및 디지털 인증서를 관리하는 프레임워크입니다. 인증, 데이터 무결성 및 기밀성을 위한 신뢰할 수 있는 환경을 제공하여 안전한 전자 거래 및 통신을 보장합니다.
+
+^Mobile Web
+&The mobile web refers to accessing the internet through mobile devices such as smartphones and tablets. Mobile web usage involves browsing websites, using web applications, and consuming content optimized for smaller screens and touch interfaces.
+*모바일 웹(Mobile Web)은 스마트폰 및 태블릿과 같은 모바일 장치를 통해 인터넷에 접속하는 것을 의미합니다. 모바일 웹 사용에는 소형 화면과 터치 인터페이스에 최적화된 웹사이트 탐색, 웹 애플리케이션 사용, 콘텐츠 소비가 포함됩니다.
+
+^Mobile Virtual Network Operators
+&Mobile Virtual Network Operators (MVNOs) are companies that provide mobile phone services without owning the physical network infrastructure. Instead, they lease network access from traditional mobile network operators to offer their services to customers.
+*이동통신 가상 네트워크 사업자(Mobile Virtual Network Operators, MVNO)는 물리적 네트워크 인프라를 소유하지 않고 이동통신 서비스를 제공하는 회사입니다. 대신, 기존 이동통신 사업자로부터 네트워크 접근 권한을 임대하여 고객에게 서비스를 제공합니다.
+
+^Mixed Reality
+&Mixed Reality (MR) is a blend of physical and digital worlds, where real and virtual objects interact in real-time. It encompasses both augmented reality (AR) and virtual reality (VR), creating immersive experiences for various applications, including gaming, education, and industrial training.
+*혼합 현실(Mixed Reality, MR)은 물리적 세계와 디지털 세계가 실시간으로 상호작용하는 것입니다. 이는 증강 현실(AR)과 가상 현실(VR)을 포함하여 게임, 교육, 산업 훈련 등 다양한 애플리케이션에 몰입형 경험을 제공합니다.
+
+^Mirroring
+&Mirroring is the process of replicating data or content from one device or location to another. It is used for backup, data recovery, and displaying the same content on multiple screens simultaneously, such as in presentations or multimedia setups.
+*미러링(Mirroring)은 데이터를 한 장치나 위치에서 다른 장치나 위치로 복제하는 과정입니다. 백업, 데이터 복구 및 프레젠테이션이나 멀티미디어 설정과 같이 여러 화면에서 동일한 콘텐츠를 동시에 표시하는 데 사용됩니다.
+
+^Microstrip Line
+&A microstrip line is a type of electrical transmission line used to convey microwave-frequency signals. It consists of a conducting strip separated from a ground plane by a dielectric layer, commonly used in printed circuit boards (PCBs) and microwave integrated circuits.
+*마이크로스트립 라인(Microstrip Line)은 마이크로파 주파수 신호를 전달하는 데 사용되는 일종의 전기 전송선입니다. 유전체 층으로 접지면과 분리된 도체 스트립으로 구성되어 있으며, 주로 인쇄 회로 기판(PCB) 및 마이크로파 집적 회로에 사용됩니다.
+
+^Metaverse
+&The Metaverse is a collective virtual shared space, created by the convergence of virtually enhanced physical reality and physically persistent virtual space. It includes virtual worlds, augmented reality, and the internet, allowing users to interact and create experiences in a digital environment.
+*메타버스(Metaverse)는 가상으로 향상된 물리적 현실과 물리적으로 지속되는 가상 공간의 융합에 의해 생성된 집합적 가상 공유 공간입니다. 이는 가상 세계, 증강 현실 및 인터넷을 포함하며, 사용자가 디지털 환경에서 상호작용하고 경험을 창출할 수 있도록 합니다.
+
+^Memristor
+&A memristor is a type of non-volatile memory that retains data without power and has the ability to remember the amount of charge that has passed through it. It is used in various applications, including memory storage, neural networks, and advanced computing architectures.
+*멤리스터(Memristor)는 전력 없이 데이터를 유지하고 그를 통과한 전하의 양을 기억할 수 있는 비휘발성 메모리의 일종입니다. 이는 메모리 저장, 신경망 및 고급 컴퓨팅 아키텍처를 포함한 다양한 애플리케이션에 사용됩니다.
+
+^MapReduce
+&MapReduce is a programming model and associated implementation for processing and generating large data sets with a distributed algorithm on a cluster. It simplifies the process of large-scale data analysis by dividing the task into smaller, manageable chunks processed in parallel.
+*맵리듀스(MapReduce)는 클러스터에서 분산 알고리즘으로 대규모 데이터 세트를 처리하고 생성하기 위한 프로그래밍 모델 및 관련 구현입니다. 작업을 더 작고 관리 가능한 청크로 나누어 병렬로 처리하여 대규모 데이터 분석 과정을 단순화합니다.
+
+^Magnetic Field
+&A magnetic field is a vector field that describes the magnetic influence on moving electric charges, electric currents, and magnetic materials. It is characterized by magnetic field lines that emanate from north to south poles and is measured in teslas (T) or gauss (G).
+*자기장(Magnetic Field)은 이동하는 전하, 전류 및 자성 재료에 대한 자기 영향을 설명하는 벡터 필드입니다. 자기장은 북극에서 남극으로 나오는 자기장 선으로 특징지어지며 테슬라(T) 또는 가우스(G) 단위로 측정됩니다.
+
+^Dedicated Line
+&A dedicated line is a telecommunications pathway that is reserved for a specific user or service, providing consistent and reliable connectivity. It is often used for business applications that require high bandwidth, low latency, and secure data transmission.
+*전용선(Dedicated Line)은 특정 사용자나 서비스에 예약된 통신 경로로, 일관되고 신뢰할 수 있는 연결성을 제공합니다. 이는 높은 대역폭, 낮은 지연 시간 및 안전한 데이터 전송이 필요한 비즈니스 애플리케이션에 자주 사용됩니다.
+
+^Internet Protocol
+&Internet Protocol (IP) is a set of rules governing the format of data sent over the internet or local network. It is responsible for addressing and routing packets of data so that they can travel across networks and arrive at the correct destination.
+*인터넷 프로토콜(Internet Protocol, IP)은 인터넷 또는 로컬 네트워크를 통해 전송되는 데이터 형식을 규정하는 규칙 집합입니다. IP는 데이터 패킷의 주소 지정 및 라우팅을 담당하여 네트워크를 통해 데이터를 전송하고 올바른 목적지에 도달할 수 있도록 합니다.
+
+^Intelligent Personal Assistant
+&An Intelligent Personal Assistant (IPA) is software that uses artificial intelligence to perform tasks or services for an individual based on commands or questions. Examples include Apple’s Siri, Amazon’s Alexa, and Google Assistant, which help users with scheduling, information retrieval, and smart home control.
+*지능형 개인 비서(Intelligent Personal Assistant, IPA)는 인공지능을 사용하여 명령이나 질문을 기반으로 개인에게 작업이나 서비스를 수행하는 소프트웨어입니다. Apple의 Siri, Amazon의 Alexa, Google Assistant와 같은 예는 일정 관리, 정보 검색 및 스마트 홈 제어를 돕습니다.
+
+^Homomorphic Encryption
+&Homomorphic encryption is a form of encryption that allows computations to be performed on ciphertexts, generating an encrypted result that, when decrypted, matches the result of operations performed on the plaintext. This enables secure data processing without exposing the underlying data.
+*동형 암호화(Homomorphic Encryption)는 암호문에서 연산을 수행할 수 있게 하는 암호화의 한 형태로, 복호화 시 평문에서 수행된 연산 결과와 일치하는 암호화된 결과를 생성합니다. 이를 통해 기본 데이터를 노출하지 않고 안전한 데이터 처리를 가능하게 합니다.
+
+^High-availability Distributed Object-oriented Platform
+&A High-availability Distributed Object-oriented Platform (HADOP) is a system designed to ensure continuous operation and minimal downtime for distributed applications. It uses redundancy, fault tolerance, and load balancing to achieve high availability and reliability.
+*고가용성 분산 객체 지향 플랫폼(High-availability Distributed Object-oriented Platform, HADOP)은 분산 애플리케이션의 지속적인 운영과 최소한의 다운타임을 보장하기 위해 설계된 시스템입니다. 이는 높은 가용성과 신뢰성을 달성하기 위해 중복성, 내결함성 및 로드 밸런싱을 사용합니다.
+
+^High Speed Downlink Packet Access
+&High Speed Downlink Packet Access (HSDPA) is a 3G mobile telephony protocol that enhances the capacity and speed of downlink data transmission. It is part of the HSPA family, offering improved performance for activities such as web browsing and video streaming on mobile devices.
+*고속 하향 패킷 접속(High Speed Downlink Packet Access, HSDPA)은 하향 데이터 전송의 용량과 속도를 향상시키는 3G 모바일 전화 프로토콜입니다. 이는 HSPA 계열의 일부로, 모바일 장치에서 웹 탐색 및 비디오 스트리밍과 같은 활동의 성능을 향상시킵니다.
+
+^GNU General Public License
+&The GNU General Public License (GPL) is a widely used free software license that guarantees end users the freedom to run, study, share, and modify the software. It ensures that the software remains free for all its users and any derived works are also distributed under the same license.
+*GNU 일반 공중 사용 허가서(GNU General Public License, GPL)는 소프트웨어를 실행, 연구, 공유 및 수정할 수 있는 자유를 최종 사용자에게 보장하는 널리 사용되는 무료 소프트웨어 라이선스입니다. 이는 소프트웨어가 모든 사용자에게 무료로 유지되며 파생 작업도 동일한 라이선스 하에 배포되도록 보장합니다.
+
+^Feature Phone
+&A feature phone is a mobile phone that has more features than a basic phone but is not as advanced as a smartphone. It typically includes functions like calling, texting, and basic multimedia, but lacks the advanced capabilities and app ecosystem of smartphones.
+*피처폰(Feature Phone)은 기본 전화보다 더 많은 기능을 갖추고 있지만 스마트폰만큼 고급 기능을 제공하지 않는 모바일 전화입니다. 일반적으로 통화, 문자 메시지, 기본 멀티미디어 기능을 포함하지만 스마트폰의 고급 기능과 앱 생태계는 부족합니다.
+
+^False Positive
+&A false positive is an error in data analysis or testing where a result incorrectly indicates the presence of a condition or attribute. In cybersecurity, it refers to a situation where benign activity is mistakenly identified as malicious, leading to unnecessary alerts and actions.
+*거짓 양성(False Positive)은 데이터 분석이나 테스트에서 결과가 조건이나 속성의 존재를 잘못 나타내는 오류입니다. 사이버 보안에서는 정상 활동이 악의적인 것으로 잘못 식별되어 불필요한 경고와 조치로 이어지는 상황을 의미합니다.

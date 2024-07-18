@@ -1,0 +1,1 @@
+{"description": "Custom 템플릿", "prompt_input": "명령에 따라 입력을 읽고 응답을 작성하세요\n\n### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Response:\n", "response_split": "### Response:"}
